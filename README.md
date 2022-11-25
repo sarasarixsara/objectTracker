@@ -44,7 +44,7 @@ Esto le permite ver 3 datos lineales y 3 datos angulares. Según el movimiento d
 
 
 
-
+Para finalizar el programa del tracker, presione la letra 'q' en el frame de la cámara y digite Ctrl+C en la terminal donde se ejecutó el tracker. Para finalizar el listener presione Ctrl+C
 ## Autores
 
 Sara Valentina Cuy
