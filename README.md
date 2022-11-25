@@ -1,9 +1,6 @@
 # Seguimiento de objeto con Python
 Este repositorio contiene un nodo de ROS que ejecuta el algoritmo de seguimiento de objeto realizado con Python. Asimismo, está el archivo que permite visualizar los datos que se están generando.
 
-## Hardware
-se requiere pc con ros
-una camara
 
 ## Requerimientos de Software
 Para el funcionamiento del código se requiere de:
