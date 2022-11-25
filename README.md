@@ -5,7 +5,7 @@ Este repositorio contiene un nodo de ROS que ejecuta el algoritmo de seguimiento
 se requiere pc con ros
 una camara
 
-# Requerimientos de Software
+## Requerimientos de Software
 Para el funcionamiento del código se requiere de:
 
  - ROS Melodic
