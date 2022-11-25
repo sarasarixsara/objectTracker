@@ -30,12 +30,18 @@ Primero se ejecuta el que publica los datos:
 
     python3 tracker.py
    Esto inicia la cámara en una nueva ventana, debe detectar los objetos del color declarado en el código (verde lima).
+   
+![Captura de pantalla de 2022-11-24 21-16-40](https://user-images.githubusercontent.com/72929394/203887099-6bee779a-5d3d-48c1-a5b7-3d31d62158ab.png)
+
    En una nueva términal, ejecute el listener
    
 
     python listener.py
 
 Esto le permite ver 3 datos lineales y 3 datos angulares. Según el movimiento del objeto, solo se verán modificados la posición lineal en X, que toma valor de 1 o -1; y la posición angular en Z que toma valores de 1,0.5,-0.5 o -1, dependiendo de qué tan fuerte se desee el giro. Es decir, solo se modifica el primer y último dato de la lista. 
+
+![Captura de pantalla de 2022-11-24 21-16-40](https://user-images.githubusercontent.com/72929394/203887099-6bee779a-5d3d-48c1-a5b7-3d31d62158ab.png)
+
 
 
 
