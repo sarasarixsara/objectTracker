@@ -24,7 +24,7 @@ Para clonar el repositorio, se digita en consola:
 
 En la terminal, ingrese a la ubicación del archivo descargado. La carpeta contiene dos archivos: el *prueba2.py* detecta el objeto y publica información tipo Twist, sobre una coordenada angular y otra lineal. El *listener.py* imprime en consola los datos generados por el otro archivo Python. Con esta información se puede controlar el movimiento de los motores.
 
-Primero se inicia el noso master de ROS
+Primero se inicia el nodo master de ROS
 
 
     roscore 
@@ -34,7 +34,7 @@ en una nueva terminal se ejecuta el que publica los datos:
     python3 tracker.py
    Esto inicia la cámara en una nueva ventana, debe detectar los objetos del color declarado en el código (verde lima).
    
-![Captura de pantalla de 2022-11-24 21-19-26](https://user-images.githubusercontent.com/72929394/203887341-523efa0d-56cc-4d97-b4c0-a12522bf6de4.png)
+![Captura de pantalla de 2022-11-25 03-14-14](https://user-images.githubusercontent.com/72929394/204011864-8cf93820-d99c-4104-a99f-06a454b9fa47.png)
 
    En otra nueva términal, ejecute el listener
    
