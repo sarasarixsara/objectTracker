@@ -55,14 +55,19 @@ Cuando el objeto esté alejado,los motores deben avanzar por lo que los valores 
 
 ![Captura de pantalla de 2022-11-25 03-17-30](https://user-images.githubusercontent.com/72929394/204017872-e9971ef2-9c00-4efc-9bca-a2dafe5d7530.png)
 
-Cuando el objeto se mueva hacia la derecha, el robot debe realizar un giro a la izquierda, los valores son:
+Cuando el objeto se mueva hacia la izquierda, el robot debe realizar un giro a la izquierda, los valores son:
 
-![Captura de pantalla de 2022-11-25 03-17-00](https://user-images.githubusercontent.com/72929394/204018032-6d9ceca6-0656-4df0-a7f3-49cf581ef21b.png)![Captura de pantalla de 2022-11-25 03-16-48](https://user-images.githubusercontent.com/72929394/204018234-eb01435d-d46c-4ce3-ad39-3ef5af6e8c8f.png)
+![Captura de pantalla de 2022-11-25 03-16-55](https://user-images.githubusercontent.com/72929394/204018126-420422e3-78f2-45a6-87ea-63d6226ffefb.png)!
+
+![Captura de pantalla de 2022-11-25 03-16-48](https://user-images.githubusercontent.com/72929394/204018234-eb01435d-d46c-4ce3-ad39-3ef5af6e8c8f.png)!
 
 
-Cuando el objeto se mueva hacia la izquierda, el robot debe realizar un giro a la derecha, los valores son:
+Cuando el objeto se mueva hacia la derecha, el robot debe realizar un giro a la derecha, los valores son:
 
-![Captura de pantalla de 2022-11-25 03-16-55](https://user-images.githubusercontent.com/72929394/204018126-420422e3-78f2-45a6-87ea-63d6226ffefb.png)![Captura de pantalla de 2022-11-25 03-16-36](https://user-images.githubusercontent.com/72929394/204018281-b76c8a22-fb53-4001-902a-0256c48d5c72.png)
+![Captura de pantalla de 2022-11-25 03-17-00](https://user-images.githubusercontent.com/72929394/204018032-6d9ceca6-0656-4df0-a7f3-49cf581ef21b.png)!
+
+
+![Captura de pantalla de 2022-11-25 03-16-36](https://user-images.githubusercontent.com/72929394/204018281-b76c8a22-fb53-4001-902a-0256c48d5c72.png)!
 
 
 Para finalizar el programa del tracker, presione la letra 'q' en el frame de la cámara y digite Ctrl+C en la terminal donde se ejecutó el tracker. Para finalizar el listener presione Ctrl+C
