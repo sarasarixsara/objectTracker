@@ -31,7 +31,7 @@ Primero se ejecuta el que publica los datos:
     python3 tracker.py
    Esto inicia la cámara en una nueva ventana, debe detectar los objetos del color declarado en el código (verde lima).
    
-![Captura de pantalla de 2022-11-24 21-16-40](https://user-images.githubusercontent.com/72929394/203887099-6bee779a-5d3d-48c1-a5b7-3d31d62158ab.png)
+![Captura de pantalla de 2022-11-24 21-19-26](https://user-images.githubusercontent.com/72929394/203887341-523efa0d-56cc-4d97-b4c0-a12522bf6de4.png)
 
    En una nueva términal, ejecute el listener
    
